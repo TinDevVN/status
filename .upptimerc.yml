@@ -8,8 +8,8 @@ skipTopicsUpdate: true
 sites:
   - name: Homepage
     url: https://tinvn.eu.org
-  - name: Link Shortener (basic)
-    url: https://r.tinvn.eu.org
+  # - name: Link Shortener (basic)
+  #   url: https://r.tinvn.eu.org
   # - name: Link Shortener (discord.gg links)
   #   url: https://d.tinvn.eu.org
   # - name: Files
