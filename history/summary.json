@@ -10,12 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 426,
-    "timeDay": 426,
-    "timeWeek": 426,
-    "timeMonth": 426,
-    "timeYear": 426,
+    "time": 611,
+    "timeDay": 611,
+    "timeWeek": 611,
+    "timeMonth": 611,
+    "timeYear": 611,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Link Shortener (basic)",
+    "url": "https://r.tinvn.eu.org",
+    "icon": "https://icons.duckduckgo.com/ip3/r.tinvn.eu.org.ico",
+    "slug": "link-shortener-basic",
+    "status": "down",
+    "uptime": "9.81%",
+    "uptimeDay": "9.81%",
+    "uptimeWeek": "9.81%",
+    "uptimeMonth": "9.81%",
+    "uptimeYear": "9.81%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-06-01": 0
+    }
   },
   {
     "name": "NoPaste",
@@ -28,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 283,
-    "timeWeek": 283,
-    "timeMonth": 283,
-    "timeYear": 283,
+    "time": 275,
+    "timeDay": 275,
+    "timeWeek": 275,
+    "timeMonth": 275,
+    "timeYear": 275,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1649,
-    "timeDay": 1649,
-    "timeWeek": 1649,
-    "timeMonth": 1649,
-    "timeYear": 1649,
+    "time": 1329,
+    "timeDay": 1329,
+    "timeWeek": 1329,
+    "timeMonth": 1329,
+    "timeYear": 1329,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 201,
-    "timeWeek": 201,
-    "timeMonth": 201,
-    "timeYear": 201,
+    "time": 203,
+    "timeDay": 203,
+    "timeWeek": 203,
+    "timeMonth": 203,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   }
 ]
