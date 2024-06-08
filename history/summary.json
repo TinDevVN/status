@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tinvn.eu.org.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 626,
-    "timeDay": 440,
-    "timeWeek": 626,
-    "timeMonth": 626,
-    "timeYear": 626,
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 655,
+    "timeDay": 1008,
+    "timeWeek": 655,
+    "timeMonth": 655,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2024-06-01": 8
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 375,
-    "timeWeek": 285,
-    "timeMonth": 285,
-    "timeYear": 285,
+    "time": 279,
+    "timeDay": 216,
+    "timeWeek": 279,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tinoy.tinvn.eu.org.ico",
     "slug": "discord-bot",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "94.63%",
+    "uptimeDay": "65.53%",
+    "uptimeWeek": "94.63%",
+    "uptimeMonth": "94.63%",
+    "uptimeYear": "94.63%",
     "time": 833,
-    "timeDay": 780,
+    "timeDay": 0,
     "timeWeek": 833,
     "timeMonth": 833,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2024-06-07": 0
+      "2024-06-08": 35,
+      "2024-06-07": 461
     }
   },
   {
@@ -68,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 346,
-    "timeWeek": 249,
-    "timeMonth": 249,
-    "timeYear": 249,
+    "time": 254,
+    "timeDay": 302,
+    "timeWeek": 254,
+    "timeMonth": 254,
+    "timeYear": 254,
     "dailyMinutesDown": {}
   }
 ]
