@@ -7,7 +7,7 @@ skipTopicsUpdate: true
 
 sites:
   - name: Homepage
-    url: https://tinvn.eu.org
+    url: https://tindev.16-b.it
   # - name: Link Shortener (basic)
   #   url: https://r.tinvn.eu.org
   # - name: Link Shortener (discord.gg links)
@@ -21,8 +21,7 @@ sites:
   - name: Discord Bot
     url: https://tinoy.tinvn.eu.org
   - name: This status page
-    url: https://status.tinvn.eu.org
-
+    url: https://status.tindev.16-b.it
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -34,7 +33,7 @@ status-website:
   introMessage: This page powered entirely by GitHub.
   navbar:
     - title: Home
-      href: https://tinvn.eu.org\
+      href: https://tindev.16-b.it
     - title: Status
       href: /
     - title: GitHub
